@@ -1,0 +1,69 @@
+[Glyph]
+1.) The path to the globe is a creation of this place. But the answer lies in following the secretive one. Revealed the prisoner will be, who holds the key to open other doors.
+
+[Clan Soldier - Engineer]
+1.) Welcome, sir! You must be new to this facility! I am the engineer in charge of the generator.
+
+2.) I am checking to make sure all the systems are off. We must not let the Resistance use it to reach the Exalted Ones!
+
+After talking to the Clan General and Outcast.
+3.) The general wants the generator turned on? But I just finished turning it off to keep the Resistance from using it, sir!
+3.) I will go to the control room and begin the startup procedure, but you need to switch on all of the main power couplings.
+
+4.) I am going to the control room now. The main power couplings are in the intake system and the generator core.
+
+If you haven't turn on all the power coupling switches.
+5.) You must not have flipped all eight of the power coupling switches. Did you miss one?
+
+After all the power couplings are on, but missing the security chief to authorize the usage of whales for powering Hanging Waters.
+6.) All power couplings on, sir. But we need the energy of the whales. The security chief can authorize that.
+
+[Female Clan General]
+1.) Excuse me. I cannot talk now. I must conduct an inspection of the facility.
+
+After discovering she is friends with the Outcast Elder.
+2.) The security chief has an office within the generator facility. The engineer could be anywhere.
+
+[Outcast Elder + Female Clan General]
+After following the Clan General.
+[Outcast Elder]
+1.) Ecco, my loyal ally! I knew you would make it!
+1.) Fear not this Clan General. She is a friend, and brought me here by pretending I was her prisoner!
+[Female Clan General]
+1.) I fought my new friend for the Outcast's sphere, but its influence caused us to stop thinking of ourselves alone.
+1.) We joined forces, hoping Clan and Outcast could share the spheres. But the Exalted Ones keeps the Clan's locked away.
+[Outcast Elder]
+1.) Our reality was not undone when you sent the first sphere back. We are better for it! So we'll help you gain the Clan's sphere.
+1.) To reach it requires the path of the Hanging Waters, created by this facility. But you need to activate them first.
+[Female Clan General]
+1.) The password I just taught you will get you into the generator. But it will take three of us to activate it for you!
+1.) I will prepare the generator's Control Room, but you will need to send the engineer and the security chief to assist us.
+
+[Outcast Elder]
+1.) The Clan's leaders are the strongest of their kind. Like you, they have special abilities, but theirs are always used for aggression!
+
+2.) Much has changed in the time since you touched our sphere. My people are working together as never before!
+2.) The Clan too is affected. Many of their members seem to be questioning their belief in their own superiority!
+
+[Frustrated Clan Soldier]
+1.) They tell us to turn it off. They tell us to turn it on. THEY SHOULD MAKE UP THEIR MINDS!
+
+2.) If you want the generator activated, you have to talk to the engineer.
+
+3.) Turn it on? But all the power couplings have just been switched off!
+
+[Clan Soldier Loyalist - Security Chief]
+1.) You know the password, but it will not help you. You are a spy of the Resistance!
+
+[Enslaved Humpback Whale No. 1]
+1.) Dolphins have abused us for so long I thought I would never trust one. Yet I feel you are a friend to us.
+1.) We will gladly help you on your quest, for we can tell you are one who means us no harm.
+
+2.) Be on your way, new friend! Our hopes go with you!
+
+[Enslaved Humpback Whale No. 2]
+1.) Your markings are Clan, but I can tell you are neither Clan nor Outcast or any other dolphin I have seen before.
+1.) The dolphins here are cruel. Both the Outcast and the Clan treat us as animals, inferiors to be exploited.
+1.) The Clan makes us power their generator for Hanging Waters. Each time we do it our lives grow shorter. But we will gladly do it once more to help you.
+
+2.) Return to the generator. We will provide the energy needed to take you to your goal.
